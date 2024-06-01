@@ -39,7 +39,7 @@ PyWavelets
 scikit-learn
 seaborn
 statsmodels
-streamlit
+upgrade streamlit
 streamlit-pandas-profiling
 tangled-up-in-unicode
 tenacity
