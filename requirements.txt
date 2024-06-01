@@ -1,12 +1,2 @@
-
-importlib-metadata
-importlib-resources
-matplotlib
-numpy
-pandas
-pandas-profiling
-scikit-learn
 seaborn
-statsmodels
-tqdm
 ydata-profiling
