@@ -1,4 +1,5 @@
 seaborn
 ydata-profiling
 streamlit==1.24.0
-streamlit_pandas_profiling==1.12.6
+streamlit_pandas_profiling
+
