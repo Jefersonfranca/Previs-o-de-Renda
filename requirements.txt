@@ -41,3 +41,5 @@ seaborn
 statsmodels
 tqdm
 ydata-profiling
+streamlit==1.28.2
+streamlit-pandas-profiling==0.1.3
