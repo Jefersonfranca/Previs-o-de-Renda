@@ -39,11 +39,5 @@ PyWavelets
 scikit-learn
 seaborn
 statsmodels
-streamlit
-streamlit-pandas-profiling
-tangled-up-in-unicode
-tenacity
-threadpoolctl
-toml
 tqdm
 ydata-profiling
