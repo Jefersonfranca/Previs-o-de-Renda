@@ -55,7 +55,7 @@ st.markdown('''
 st.markdown('''
 A análise detalhada de dados são fundamentais para qualquer instituição bancária que deseja melhorar seu relacionamento com os clientes, oferecer produtos mais relevantes e gerir riscos de forma eficiente. 
 
-Quanto mais informações disponíveis permite uma visão holística dos clientes, possibilitando decisões mais estratégicas e eficazes em todas as áreas do banco.
+Quanto mais informações disponíveis permite uma visão completa dos clientes, possibilitando decisões mais estratégicas e eficazes em todas as áreas do banco.
 ''')
 
 st.markdown('''
