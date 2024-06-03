@@ -1,4 +1,5 @@
 seaborn
+sklearn
 ydata-profiling
 streamlit
 streamlit_pandas_profiling>=0.1.3
