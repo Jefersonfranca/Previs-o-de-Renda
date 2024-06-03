@@ -1,5 +1,7 @@
-seaborn
+seaborn>=0.12.2
 sklearn
-ydata-profiling
-streamlit
+scikit-learn>=1.3.2
+ydata-profiling>=3.6.6
+streamlit>=1.28.2
 streamlit_pandas_profiling>=0.1.3
+tqdm>=4.66.1
