@@ -14,7 +14,7 @@
 
 ## Descrição do Projeto
 
-Este projeto visa prever a renda de clientes de um banco com base em diversas informações fornecidas. Utilizando técnicas de análise de dados, limpeza e modelagem preditiva. Além disso, criamos um aplicativo interativo que permite calcular a renda prevista em tempo real.
+Este projeto visa prever a renda de clientes de um banco com base em diversas informações fornecidas. Utilizando técnicas de análise de dados, limpeza e modelagem preditiva. Além disso, criei um aplicativo interativo que permite calcular a renda prevista em tempo real.
 
 ## Etapas do Projeto
 
